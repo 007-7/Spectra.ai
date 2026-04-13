@@ -1,9 +1,8 @@
-# Spectra-ai
-Advanced AI framework to detect deepfake and manipulated videos i trained deep neural networks on a dataset of 50,000+ real and AI-generated frames, utilizing spatio-temporal analysis to achieve a 99.7% detection accuracy. 
-
-# Spectra
+# Spectra.ai
 
 An AI-powered video detection platform that analyzes uploaded videos to determine whether they are AI-generated or authentic. The system returns a confidence score for each prediction and supports interactive, LLM-based explanations of its outputs.
+
+trained deep neural networks on a dataset of 50,000+ real and AI-generated frames, utilizing spatio-temporal analysis to achieve a 99.7% detection accuracy. 
 
 ## Model
 
